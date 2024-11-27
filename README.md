@@ -1,3 +1,3 @@
 # Hi, I'm Sasha
-- Currently working on various web frameworks
-- Especially interested in JS frameworks at the moment
+- Interested in all things tech
+- Web, Devops, Linux, Monitoring, and more

@@ -1,3 +1,3 @@
 # Hi, I'm Sasha
 - Interested in all things tech
-- Web, Devops, Linux, Monitoring, and more
+- Web, Devops, Monitoring, and more
